@@ -1,2 +1,2 @@
 # git-github
-This is for leaning purpose
+This is for learning purpose
